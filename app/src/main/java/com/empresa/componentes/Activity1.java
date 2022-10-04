@@ -19,6 +19,7 @@ public class Activity1 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Log.e("mensaje", " pulsaste el 1 desde java");
+                Log.e("mensaje2", " pulsaste el 2 desde java, este es otro mensaje");
             }
         });
     }
