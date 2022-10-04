@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity() {
 
         btn1.setOnClickListener {
             Log.e("mensaje", " pulsaste el 1 desde java")
+            Log.e("mensaje", " pulsaste el 1 desde java2")
+            Log.e("mensaje", " pulsaste el 1 desde java3")
         }
     }
 
