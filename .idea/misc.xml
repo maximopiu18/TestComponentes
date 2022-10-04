@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/Componentes/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/Componentes/app/src/main/res/layout-land/pantalla1.xml" value="0.2" />
+        <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/Componentes/app/src/main/res/layout-landscape/pantalla1.xml" value="0.334375" />
+        <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/Componentes/app/src/main/res/layout-portrait/pantalla1.xml" value="0.334375" />
+        <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/Componentes/app/src/main/res/layout/activity_calculadora.xml" value="0.25" />
+        <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/Componentes/app/src/main/res/layout/activity_main.xml" value="0.2161764705882353" />
+        <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/Componentes/app/src/main/res/layout/ejemplo.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/Componentes/app/src/main/res/layout/pantalla1.xml" value="0.17760416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
