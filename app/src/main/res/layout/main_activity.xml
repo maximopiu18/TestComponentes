@@ -17,6 +17,7 @@
 
 
         <TextView
+            android:id="@+id/tvResultado"
             android:textSize="28dp"
             android:layout_margin="16dp"
             android:gravity="center|right"
@@ -46,6 +47,7 @@
         </Button>
 
         <Button
+            android:id="@+id/btn2"
             android:textStyle="bold"
             android:textSize="28dp"
             android:text="2"
@@ -55,6 +57,7 @@
 
         </Button>
         <Button
+            android:id="@+id/btn3"
             android:textStyle="bold"
             android:textSize="28dp"
             android:text="3"
@@ -64,6 +67,7 @@
 
         </Button>
         <Button
+            android:id="@+id/btnSuma"
             android:textStyle="bold"
             android:textSize="28dp"
             android:text="+"
@@ -109,6 +113,7 @@
 
         </Button>
         <Button
+            android:id="@+id/btnResta"
             android:textStyle="bold"
             android:textSize="28dp"
             android:text="-"
@@ -172,6 +177,7 @@
         android:layout_height="0dp"
         android:layout_weight="20">
         <Button
+            android:id="@+id/btnReset"
             android:textStyle="bold"
             android:textSize="28dp"
             android:text="C"
@@ -190,6 +196,7 @@
 
         </Button>
         <Button
+            android:id="@+id/btnResultado"
             android:textStyle="bold"
             android:textSize="28dp"
             android:text="="
@@ -199,6 +206,7 @@
 
         </Button>
         <Button
+            android:id="@+id/btnDivision"
             android:textStyle="bold"
             android:textSize="28dp"
             android:text="/"
