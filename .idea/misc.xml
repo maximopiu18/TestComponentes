@@ -11,10 +11,11 @@
         <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/Componentes/app/src/main/res/layout/activity_main.xml" value="0.2161764705882353" />
         <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/Componentes/app/src/main/res/layout/ejemplo.xml" value="0.31666666666666665" />
         <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/Componentes/app/src/main/res/layout/pantalla1.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/TestComponentes/app/src/main/res/layout/pantalla1.xml" value="0.221875" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

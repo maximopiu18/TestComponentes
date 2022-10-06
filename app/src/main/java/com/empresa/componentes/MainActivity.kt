@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.pantalla1)
+        setContentView(R.layout.main_activity)
 
         btn1 = findViewById(R.id.btn1)
         btn1.setOnClickListener {
@@ -20,8 +20,6 @@ class MainActivity : AppCompatActivity() {
 
         btn1.setOnClickListener {
             Log.e("mensaje", " pulsaste el 1 desde java")
-            Log.e("mensaje", " pulsaste el 1 desde java2")
-            Log.e("mensaje", " pulsaste el 1 desde java3")
         }
     }
 
