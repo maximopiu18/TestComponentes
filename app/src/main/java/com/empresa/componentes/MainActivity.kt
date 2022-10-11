@@ -139,7 +139,10 @@ class MainActivity : AppCompatActivity() {
                 }
                 else{
                     valor1 = valor1+valor
+
                 }
+                tvResultado.setText(""+valor1)
+
                 Log.e("valor", "valor1: " + valor1)
             }
             else if(!valorSimbolo.equals("")|| !valorSimbolo.isNullOrEmpty()){
@@ -150,6 +153,8 @@ class MainActivity : AppCompatActivity() {
                 else{
                     valor2 = valor2+valor
                 }
+                tvResultado.setText(""+valor2)
+
                 Log.e("valor", "valor2: " + valor2)
             }
 
