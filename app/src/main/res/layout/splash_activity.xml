@@ -18,7 +18,8 @@
             android:layout_height="wrap_content"/>
 
         <ProgressBar
-            android:indeterminateTint="@color/blanco"
+            android:id="@+id/miProgresBar"
+
             android:layout_marginBottom="?attr/actionBarSize"
             android:layout_gravity="bottom|center"
             android:layout_width="?attr/actionBarSize"
