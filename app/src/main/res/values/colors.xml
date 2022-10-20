@@ -7,4 +7,19 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="blue_splash">#1e319d</color>
+    <color name="blue_button_true">#03105F</color>
+    <color name="blanco">#ffffff</color>
+    <color name="negro">#000000</color>
+
+    <color name="progress_09">#ECECEC</color>
+    <color name="progress_08">#B9B9BB</color>
+    <color name="progress_07">#93939A</color>
+    <color name="progress_06">#7C7C8A</color>
+    <color name="progress_05">#6D6D86</color>
+    <color name="progress_04">#505071</color>
+    <color name="progress_03">#444471</color>
+    <color name="progress_02">#353569</color>
+    <color name="progress_01">#25255F</color>
+
 </resources>
