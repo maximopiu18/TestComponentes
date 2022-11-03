@@ -81,6 +81,7 @@
                 </FrameLayout>
 
                 <Button
+                    android:id="@+id/btnLogin"
                     android:layout_width="match_parent"
                     android:layout_height="?attr/actionBarSize"
                     android:layout_gravity="center|bottom"
@@ -89,6 +90,8 @@
                     android:inputType="textCapCharacters"
                     android:text="@string/login"
                     android:textColor="@color/blanco" />
+
+
             </FrameLayout>
 
             <LinearLayout
@@ -122,6 +125,8 @@
 
         </FrameLayout>
     </LinearLayout>
+
+
 
 
 </LinearLayout>

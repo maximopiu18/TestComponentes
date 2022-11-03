@@ -12,10 +12,15 @@
         <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/Componentes/app/src/main/res/layout/ejemplo.xml" value="0.31666666666666665" />
         <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/Componentes/app/src/main/res/layout/pantalla1.xml" value="0.17760416666666667" />
         <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/TestComponentes/TestComponentes/app/src/main/res/drawable/btn_main.xml" value="0.35989583333333336" />
-        <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/TestComponentes/TestComponentes/app/src/main/res/layout/login_actvity.xml" value="0.22" />
+        <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/TestComponentes/TestComponentes/app/src/main/res/layout/fragment_ajustes.xml" value="0.22" />
+        <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/TestComponentes/TestComponentes/app/src/main/res/layout/fragment_inicio.xml" value="0.2" />
+        <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/TestComponentes/TestComponentes/app/src/main/res/layout/fragment_noticias.xml" value="0.2546875" />
+        <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/TestComponentes/TestComponentes/app/src/main/res/layout/login_actvity.xml" value="0.1" />
         <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/TestComponentes/TestComponentes/app/src/main/res/layout/main_activity.xml" value="0.33958333333333335" />
+        <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/TestComponentes/TestComponentes/app/src/main/res/layout/menu_activity.xml" value="0.1" />
         <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/TestComponentes/TestComponentes/app/src/main/res/layout/registro_activity.xml" value="0.22" />
         <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/TestComponentes/TestComponentes/app/src/main/res/layout/splash_activity.xml" value="0.33958333333333335" />
+        <entry key="..\:/Users/Maximopiu18/Documents/AndroidProyects/TestComponentes/TestComponentes/app/src/main/res/menu/menu_menu.xml" value="0.2546875" />
       </map>
     </option>
   </component>

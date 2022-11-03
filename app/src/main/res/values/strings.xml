@@ -8,4 +8,9 @@
     <string name="login_pass">Contraseña</string>
     <string name="login_pass_confirm">Confirmar Contraseña</string>
     <string name="registro_crear_cuenta">Crear tu cuenta</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="inicio_fragment">Menu de inicio </string>
+    <string name="noticias_fragment">Noticias</string>
+    <string name="ajustes_fragment">Ajustes</string>
+
 </resources>
