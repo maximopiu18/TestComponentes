@@ -3,6 +3,9 @@
     <string name="login">Iniciar sesión</string>
     <string name="registro">Si no tienes una cuenta </string>
     <string name="registro2"> Registrate aqui</string>
+    <string name="registro_registrarme"> Registrarme</string>
     <string name="login_inicio">Usuario/Correo</string>
     <string name="login_pass">Contraseña</string>
+    <string name="login_pass_confirm">Confirmar Contraseña</string>
+    <string name="registro_crear_cuenta">Crear tu cuenta</string>
 </resources>

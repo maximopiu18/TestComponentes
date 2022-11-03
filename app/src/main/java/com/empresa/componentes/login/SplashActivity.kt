@@ -12,8 +12,7 @@ import android.util.Log
 import android.widget.ProgressBar
 import com.empresa.componentes.R
 import android.graphics.PorterDuff
-
-
+import android.view.WindowManager
 
 
 class SplashActivity :AppCompatActivity() {
@@ -24,6 +23,7 @@ class SplashActivity :AppCompatActivity() {
     lateinit var mycount : CountDownTimerLoading
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         setContentView(R.layout.splash_activity)
         myProgressBar = findViewById(R.id.miProgresBar)
 

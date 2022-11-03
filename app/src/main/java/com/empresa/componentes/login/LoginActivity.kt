@@ -16,6 +16,7 @@ class LoginActivity :AppCompatActivity() {
         tvRegistrarme.setOnClickListener {
             var intent = Intent(this, RegistroActivity::class.java)
             startActivity(intent)
+            finish()
         }
     }
 }
